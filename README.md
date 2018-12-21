@@ -1,1 +1,1 @@
-# jquery-practice
+https://mdbulbul.github.io/jquery-practice/
